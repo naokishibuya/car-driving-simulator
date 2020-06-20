@@ -1,4 +1,4 @@
-# Self-Driving Car Simulator 
+# Car Driving Simulator
 
 This repo is originated from Udacity's Self-Driving Car Simulator (https://github.com/udacity/self-driving-car-sim).
 
@@ -6,9 +6,9 @@ This repo is originated from Udacity's Self-Driving Car Simulator (https://githu
 
 ### 1. Before cloning this repository
 
-Install [Git LFS](https://git-lfs.github.com) to properly pull over large texture and model assets. 
+Install [Git LFS](https://git-lfs.github.com) to properly pull over large texture and model assets.
 
-Once, Git LFS is installed, run the following command once per your git account to enable it.
+Run the following command once per your git account to enable it.
 
 ```
 git lfs install
@@ -16,11 +16,15 @@ git lfs install
 
 ### 2. Clone this repository.
 
+```
+git clone git@github.com:naokishibuya/car-driving-simulator.git
+```
+
 ### 3. Install Unity (unity_2019.4.1f1)
 
 https://unity3d.com/get-unity/download
 
-Note: all the assets in this repository require Unity. 
+Note: all the assets in this repository require Unity.
 
 ### 4. Open the project in Unity
 
@@ -30,7 +34,7 @@ Start Unity and open the exiting project from the `car-driving-simulator` folder
 
 Go to *File* -> *Build Settings...*
 
-## Editing in Unity 
+## Editing in Unity
 
 ### 1. Load up scenes
 
