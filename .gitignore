@@ -2,7 +2,9 @@
 Builds/
 Temp/
 Library/
-Logs
+Logs/
+Packages/
+*.app/
 obj/
 
 # Visual Studio / MonoDevelop generated
